@@ -1,0 +1,236 @@
+# Translation of Plugins - IRM Newsroom - Development Readme (trunk) in English (Australia)
+# This file is distributed under the same license as the Plugins - IRM Newsroom - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - IRM Newsroom - Development Readme (trunk)\n"
+
+#. Short description.
+msgid "Automatically distribute your ASX Announcements to your website, email subscribers and social media channels using the IRM Newsroom plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with site_type when showing flat pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to list categories even if they do not have any posts associated with them"
+msgstr ""
+
+#. Found in faq header.
+msgid "Installation Instructions"
+msgstr ""
+
+#. Found in installation list item, faq list item.
+msgid "The plugin also comes with a feature that can connect your wordpress blog to your IRM site, and when you publish a new blog post or update an existing one it can be published on your IRM Corporate site as well as being sent to subscribers and social media channels using Newsroom."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Please note: An IRM Newsroom account is necessary for the plugin to function correctly. Find out more here www.irmau.com."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*Based on statistics from 2016."
+msgstr ""
+
+#. Found in description list item.
+msgid "Robust System: Over 500 ASX announcements and over 300,000 emails are sent via Newsroom each month*. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Ability to add extra third party feeds to your Newsroom including your blog."
+msgstr ""
+
+#. Found in description list item.
+msgid "span.articleBrief : the brief if any for the article."
+msgstr ""
+
+#. Found in description list item.
+msgid ".article a : targets the link and title for the article."
+msgstr ""
+
+#. Found in description list item.
+msgid "div.ItemTickerCode : if the item has an associated ticker code it will show up here."
+msgstr ""
+
+#. Found in description list item.
+msgid "span.fileSize : the size of the file."
+msgstr ""
+
+#. Found in description list item.
+msgid "span.fileSizeLabel : the wording \"File Size\"."
+msgstr ""
+
+#. Found in description list item.
+msgid "span.articleDate : for the list item date."
+msgstr ""
+
+#. Found in description list item.
+msgid "div.article : wrapped around each list item."
+msgstr ""
+
+#. Found in description list item.
+msgid "table.newsitems : the container for the table where the articles are listed. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Flexible options to change distribution channels per announcement."
+msgstr ""
+
+#. Found in description list item.
+msgid "Simple editing features to change messaging per announcement."
+msgstr ""
+
+#. Found in description list item.
+msgid "Choice of automated or one click authorise process to release announcements."
+msgstr ""
+
+#. Found in description list item.
+msgid "Immediate distribution of ASX announcements to your website, email subscribers and social media channels."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "What does this mean? It means that you still get the great benefits of using IRM Newsroom mentioned above including the automated and immediate distribution of ASX announcements to your website, email subscribers and social media channels."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Of course, we’re happy to work with your developers to provide a JSON feed that they can use to display your announcements on your website."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, IRM Newsroom provides detail on the full history of every news item received and published. You can also publish items that were archived for a later date."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, IRM Newsroom automatically manages all your email subscribers, as well as those who unsubscribe. You can also manage your email lists and keep separate lists for different types of announcements."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, a benefit of IRM Newsroom is that your website and investor email subscribers can be kept up-to date with very little effort."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "IRM Newsroom gives you control over how each type of news item is managed – you can opt for automatic or manual distribution. The choice is yours. Archiving is also available."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, IRM offers Social Media set up packages to assist companies to engage with audiences through social media."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you have complete control of what news is published. You can set up different defaults by type, and override them for particular pieces of news. You can publish to all channels (including website, email subscribers, Twitter, Facebook and LinkedIn), or to selected channels. The choice is with you."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Within moments of receiving your ASX lodgment confirmation email, IRM will also be notified and your Newsroom distribution process activated, including your Newsroom notification email automatically generated for you to approve the distribution process."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "IRM Newsroom comes complete with its own instance of IRM HQi, where you can view all news and announcements, as well as manage your subscriber database and more."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The process of integrating IRM Newsroom into your existing website is seamless. We provide various technical integration methods depending on the nature of your own website. IRM Newsroom integrates seamlessly with IRM HQi websites."
+msgstr ""
+
+#. Found in faq header.
+msgid "But what if I don’t have an IRM or Wordpress website? Can I still get the benefits of IRM Newsroom?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I view all the news items I have released and archived for later use?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does IRM Newsroom manage all my investor email subscribers?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does IRM Newsroom keep my website news up-to-date?"
+msgstr ""
+
+#. Found in faq header.
+msgid "We generate a lot of news – do I have to decide what to do with every article?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My company doesn’t have any social media channels, can IRM help to set them up?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I choose which news is published where?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does IRM Newsroom know that I have lodged an ASX Announcement through ASX Online?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How is IRM Newsroom integrated with my existing website?"
+msgstr ""
+
+#. Found in installation list item, faq list item.
+msgid "If your theme supports it you can also import the menu from your IRM site into wordpress, it will however link back to your IRM site rather than the wordpress site so this may be useful only if you are replicating the irm theme on your wordpress blog."
+msgstr ""
+
+#. Found in installation list item, faq list item.
+msgid "Under the menu List Page Shortcodes and Flat Page Shortcodes you will find your pages from the irm version of your site."
+msgstr ""
+
+#. Found in installation list item, faq list item.
+msgid "Add the sitekey provided to you which should be something like http and then irm5.live.irmau.com press save changes to update the setting. If you have entered the site key properly it should show a list of your pages below."
+msgstr ""
+
+#. Found in installation list item, faq list item.
+msgid "The plugin can be installed via the plugins / add new menu in wordpress. Upload the provided zip file when prompted in wordpress. Once installed you can access the plugin via Settings / IRM Newsroom in wordpress back end."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The list comes with some basic formatting which can be overridden with the css classes."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "List pages that are shown from your IRM site can be styled using the following class names. Please note that they will take on any default list styles that you already have on your existing Wordpress site. List pages start with the shortcode irmlist and then the category for the list."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin allows you to get the great benefits of IRM Newsroom in use with your Wordpress site. All feeds and share prices are completely flexible so they can be styled to match your company branding."
+msgstr ""
+
+#. Found in description header.
+msgid "Class Names"
+msgstr ""
+
+#. Found in description header.
+msgid "Styling List Pages &amp; Class Names"
+msgstr ""
+
+#. Found in description header.
+msgid "Benefits of IRM Newsroom"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Options for SSL and site directory"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the way that content is imported to javascript"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to show Flat pages from an IRM Website."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to show List pages from an IRM website."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to use the menu from an IRM website for consistency when a separate Wordpress blog is used."
+msgstr ""
